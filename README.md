@@ -1,16 +1,24 @@
-## Hi there 👋
 
-<!--
-**AAA-hlh/AAA-hlh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Liuhe Hao
 
-Here are some ideas to get you started:
+**Affiliation:** Beihang University (BUAA)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Position:** Master's Student
+
+**Email:** zy2606206@buaa.edu.cn
+
+## About Me
+
+I am a Master's student at Beihang University.
+
+My research focuses on computer vision and deep learning.
+
+## Research Interests
+
+- Computer Vision
+- Image Recognition
+- Image Classification
+- Transfer Learning
+- Domain Adaptation
+- Knowledge Distillation
+- Deep Learning
